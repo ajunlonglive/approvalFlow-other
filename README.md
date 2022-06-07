@@ -1,5 +1,5 @@
 # 仿钉钉后台审批流程
-> 渣新出品，不曾想放到GitHub上居然有人给了Star，人生第一次，分享出来给大家，虽然多半没什么用，供大家一乐也好。垃圾代码，还望轻喷。
+
 
 基于JakHuang大佬的[form-generator](https://github.com/JakHuang/form-generator)的，仿钉钉后台审批流程创建界面
 
